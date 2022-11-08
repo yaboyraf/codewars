@@ -6,6 +6,7 @@
 // n= 5, m=5: 25
 // n=-5, m=5:  0
 
+//my solution
 function paperwork(n, m) {
   if (m < 0 || n < 0) {
     return 0;
